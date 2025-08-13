@@ -1,7 +1,7 @@
 {
   "name": "electron-stu",
   "version": "1.0.0",
-  "description": "",
+  "description": "a demo for stu electron",
   "main": "main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -10,7 +10,7 @@
     "make": "electron-forge make"
   },
   "keywords": [],
-  "author": "",
+  "author": "zhangzhenda <zhangsan@example.com>",
   "license": "ISC",
   "devDependencies": {
     "@electron-forge/cli": "^7.8.3",
